@@ -9,4 +9,9 @@ style="border: lpx solid #ffff00">
 
 2.傳回Github
 
-<img src="imgs/註解%202021-03-12%20140218.png" style="width: 380">
+1.
+<img src="imgs/註解%202021-03-12%20150013.png" style="width: 380">
+
+
+2. 打完e-mail及user name之後打 git push
+<img src="imgs/註解%202021-03-12%20150332.png" style="width: 380">
