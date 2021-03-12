@@ -15,3 +15,10 @@ style="border: lpx solid #ffff00">
 
 2. 打完e-mail及user name之後打 git push
 <img src="imgs/註解%202021-03-12%20150332.png" style="width: 380">
+
+3. 如有進行更改
+
+   <img src="imgs/註解%202021-03-12%20140218.png" style="width: 380">
+
+<img src="imgs/註解%202021-03-12%20150836.png" style="width: 380">
+之後點右上的勾勾及註解再進行2.
