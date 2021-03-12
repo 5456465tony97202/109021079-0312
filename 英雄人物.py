@@ -15,13 +15,3 @@ x3=Hero("凱哥","3900","003","高雄","錢包")
 x1.showInfo()
 x2.showInfo()
 x3.showInfo()
-
-
-"""
-print(x.HeroName, "\t",x.HeroId)
-print(Hero.__dict__)
-print(Hero.__doc__)
-print(Hero.__name__)
-print(Hero.__module__)
-print(Hero.__bases__)
-"""
